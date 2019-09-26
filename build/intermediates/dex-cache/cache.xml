@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio\Proj\Maze\libs\sideload-proguard.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="f9c4928bda12492b639100f70506fa137c498516">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\transforms\dex\debug\folders\1000\2\sideload-proguard_00cb088839c3438bfbd47986cb38a4f82899d17a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio\Proj\Maze\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="21751d6242f0cb35d13c1ec40e86caedca199e6d">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_ba6012940cc84d745c234571bd7ad2da2b0fc6f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio\Proj\Maze\libs\sideload-proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="6c6abed7b352c6e566da89157ca01f624e81717a">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\pre-dexed\debug\sideload-proguard_00cb088839c3438bfbd47986cb38a4f82899d17a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio\Proj\Maze\libs\unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\transforms\dex\debug\folders\1000\2\unity-classes_049ee156c6035fe7d8168123e49174c3e48ff58b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android_Studio\Proj\Maze\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="28.0.3"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c556297a11f88621443b6aa355c520d6aaec5028\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="D:\Android_Studio\Proj\Maze\libs\unity-classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="2d302418aa3482b8db770278260340aed47dd37a">
+        <dex dex="D:\Android_Studio\Proj\Maze\build\intermediates\pre-dexed\debug\unity-classes_049ee156c6035fe7d8168123e49174c3e48ff58b.jar" />
+    </item>
+
+</items>

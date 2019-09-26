@@ -1,0 +1,4 @@
+#Wed Aug 14 19:05:50 CST 2019
+base.0=D\:\\Android_Studio\\Proj\\Maze\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4
+renamed.0=classes.dex
+file.0=D\:\\Android_Studio\\Proj\\Maze\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_4\\classes.dex
